@@ -1,6 +1,6 @@
 # OK35
 
-![the thing](irl.jpg)
+![the thing](pics/irl.jpg)
 
 35-key half-keyboard PCB, designed to be used in pairs
 
