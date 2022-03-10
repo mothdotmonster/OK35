@@ -28,3 +28,6 @@ fp-info-cache
 
 *-backups
 *.kicad_prl
+
+# shh
+private

@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "OK35")
-    (date "2022-02-21")
-    (rev "0.1.1")
+    (title "OK35 Public Release")
+    (date "2022-03-10")
+    (rev "0.1.2")
     (company "moth.monster")
   )
 
