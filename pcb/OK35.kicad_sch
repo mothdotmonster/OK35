@@ -1595,7 +1595,7 @@
     (property "Reference" "R1" (id 0) (at 100.6915 66.802 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "2K2" (id 1) (at 101.6 68.58 90))
+    (property "Value" "10k" (id 1) (at 101.6 68.58 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 101.6 70.358 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2110,7 +2110,7 @@
     (property "Reference" "R2" (id 0) (at 100.6915 70.612 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "2K2" (id 1) (at 101.6 72.39 90))
+    (property "Value" "10k" (id 1) (at 101.6 72.39 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 101.6 74.168 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2818,10 +2818,10 @@
       (reference "JP1") (unit 1) (value "SolderJumper_3_Open") (footprint "Jumper:SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/37e9bfa6-9f52-4e15-b12d-0781db7a2c82"
-      (reference "R1") (unit 1) (value "2K2") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/88b31a51-f886-4b2b-b511-2e3ab761a629"
-      (reference "R2") (unit 1) (value "2K2") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/c1d4cce4-9fc8-49e7-8c15-24df5623c3cb"
       (reference "SW1") (unit 1) (value "SW_SPST") (footprint "keebio:MX-Alps-Choc-1U-NoLED")
