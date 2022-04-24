@@ -1,4 +1,5 @@
-# OK35
+![ok35](pics/ok35.svg)
+***
 ![on a desk](pics/deskpic.jpg)
 ![the thing](pics/irl.jpg)
 
